@@ -8,5 +8,5 @@ window.addEventListener("DOMContentLoaded",()=>{
 setTimeout(()=>{
 let cont=document.querySelector(".cont")
 cont.style.display="block"
-},5000)
+},2000)
 })
